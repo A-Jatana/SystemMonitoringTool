@@ -1,1 +1,1 @@
-# SystemMonitoringTool
+This  program displays system data such as the amount of samples taken, the delay between samples, memory usage, core utilization, CPU performance, and the number of active user sessions. System calls are used to get specific data, and the information is read from the /proc/stat file.
